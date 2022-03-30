@@ -1,0 +1,30 @@
+
+/* @import url('grid_12-825-55-15.css'); */
+
+@font-face {
+ font-family:'DIGITAL-7';
+ src: url(font/digital-7-webfont.woff);
+ src: url(font/digital-7-webfont.woff2);
+  }
+
+
+body{
+    background-color: #e9e9e9 !important;
+    font-family:'DIGITAL-7';
+    src: url(font/digital-7-webfont.woff);
+    src: url(font/digital-7-webfont.woff2);
+}
+
+
+.clock {
+    width: 500px;
+    height: auto;
+    margin: 100px 50px auto;
+    font-size: 70px;
+} 
+.box{
+    width: 500px;
+    height: auto;
+    margin: 100px 50px auto;
+    font-size: 70px;
+}
